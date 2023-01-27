@@ -40,3 +40,4 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 Scicat is developed at PSI, ESS and MAXIV with in-kind funding from ESS and from the European Union Framework Programme for Research and Innovation Horizon 2020, under grant agreement 676548, “BrightnESS”.
 
 
+pm2 start npm --name "front" -- run start
